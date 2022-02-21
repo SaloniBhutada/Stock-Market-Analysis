@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-NIFTY50-
+# Stock-Market-Analysis: NIFTY50
 Our project was centered on analyzing stock data from various Indian firms. We went over Data Cleaning and Data Wrangling before implementing Clustring, Probability Distribution, Text Mining and Sentiment Analysis, and Time Series Analysis. We were able to turn the data into excellent visuals using several new libraries, offering significant insights to all of the business problems. We were able to analyze stocks as well as their profit growth that may be invested in the near future. 
 
 We have considered two Datasets for our analysis.
